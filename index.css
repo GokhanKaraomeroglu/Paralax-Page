@@ -13,7 +13,7 @@ body, html{
 
 }
 .background-container--image1{
-	background-image: url(./assets/bg1.jpg);
+	background-image: url(./assets/futbol.png);
 	min-height: 100%;
 }
 
@@ -64,11 +64,11 @@ body, html{
 }
 
 .heading-container__heading--big{
-	background-color: black;
+	background-color: rgb(8, 72, 35);
 	padding: 2rem;
 	border-top-left-radius: 2rem;
 	border-bottom-right-radius: 2rem;
-	outline: 0.4rem inset purple;
+	outline: 0.4rem inset rgb(18, 225, 225);
 	outline-offset: 1rem;
 	text-transform: uppercase;
 	line-height: 5rem;
@@ -91,7 +91,7 @@ body, html{
 
 .section--light{
 	background: rgb(241, 241, 241);
-	color: #666;
+	color: rgb(0, 0, 0);
 }
 
 .section--dark{
